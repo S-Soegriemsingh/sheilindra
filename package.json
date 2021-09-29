@@ -1,0 +1,27 @@
+{
+  "name": "dnd_dpr_calculator",
+  "version": "1.0.0",
+  "description": "A Dungeons and Dragons app which can calculate the Damage Per Round for a character based on the given input.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-Soegriemsingh/dnd_dpr_calculator.git"
+  },
+  "author": "Sheik Soegriemsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-Soegriemsingh/dnd_dpr_calculator/issues"
+  },
+  "homepage": "https://github.com/S-Soegriemsingh/dnd_dpr_calculator#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
